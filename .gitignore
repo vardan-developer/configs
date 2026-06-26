@@ -1,0 +1,6 @@
+# ignore everything at the top level
+/*
+# the submodule folders get added explicitly, but whitelist
+# them anyway so git doesn't complain
+!/.gitignore
+!/.gitmodules
