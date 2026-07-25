@@ -2,9 +2,10 @@
 /*
 # the submodule folders get added explicitly, but whitelist
 # them anyway so git doesn't complain
-!./.gitignore
-!./.gitmodules
-!./zshrc
-!./ghostty
-!./nvim
-!./tmux
+!.gitignore
+!.gitmodules
+!zshrc
+!ghostty
+!nvim
+!tmux
+!git

@@ -10,3 +10,6 @@
 [submodule "zshrc"]
 	path = zshrc
 	url = https://github.com/vardan-developer/zshrc.git
+[submodule "git"]
+	path = git
+	url = https://github.com/vardan-developer/git.git
