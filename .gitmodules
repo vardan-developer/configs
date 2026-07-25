@@ -7,3 +7,6 @@
 [submodule "ghostty"]
 	path = ghostty
 	url = https://github.com/vardan-developer/ghostty-config.git
+[submodule "zshrc"]
+	path = zshrc
+	url = https://github.com/vardan-developer/zshrc.git
